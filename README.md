@@ -1,6 +1,6 @@
 # Even Order Filter Calculator and Builder
 
-The even order filter calculator can calculate lowpass or highpass analog filter designed using opamps. 
+The even order filter calculator can calculate lowpass or highpass analog filters designed using opamps. 
 
 The Equal Component Filter Calculator Class calculates the relevant components of this type of design method. It does not build the filters.
 
