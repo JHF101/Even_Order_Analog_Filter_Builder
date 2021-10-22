@@ -7,6 +7,8 @@ The Equal Component Filter Calculator Class calculates the relevant components o
 The Unity Gain Filter Calculator Class is the class that can automatically build an optimised(minimises the error between the theoretically calculated value from values that are available in the real world, i.e. E96 ) real-world implementation of the filter for LTSpice. 
 
 ## Usage 
+In order to build the Unity Gain Filter Filters run the "Filter_Builder" class. After that run the "UnityGainFilterCalculator" class. The user will now be able to design the filter according to their specification. The "Filter_Builder" class shoudl be run in conjunction with the "UnityGainFilterCalculator", because the setup is not designed for the "FilterCalculator" under the Sallen-Key Equal Component Design section. 
+
 The classes and functions have descriptions of their purpose, input and output parameters. The notebook also contains design information.
 
 ## Bugs
